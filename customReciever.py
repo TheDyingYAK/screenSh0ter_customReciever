@@ -1,3 +1,5 @@
+# Written by TheDyingYak 20251015
+# For research purposes only
 # custom_receiver.py (Python 6.13+ compatible)
 #!/usr/bin/env python3
 import http.server

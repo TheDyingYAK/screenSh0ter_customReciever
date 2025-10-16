@@ -1,4 +1,4 @@
-# screenSh0tter_customReciever
+# screenSh0ter_customReciever
 
 This project is the web reciever for screenSh0tter.
 
